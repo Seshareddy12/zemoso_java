@@ -7,7 +7,7 @@ public class Solution {
     {
         Main m = new Main();
         m.printMemberVariables();
-        m.printLocalVariables();
+        //m.printLocalVariables();
         Second s = Second.setName("sesha");
         s.printName();
     }
